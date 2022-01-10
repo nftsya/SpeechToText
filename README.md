@@ -1,7 +1,7 @@
 # APIsSpeechToText
 Convert audio files to text using API Microsoft Azure, IBM Watson, Google Cloud Platform and SpeechText.AI C# | .NET
 
-Comparrasing with WED metric:
+Comparrasing with WER metric:
 
 |         WER           |       |       |       |       |       |       |       |       |       |      |
 |-----------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|------|
